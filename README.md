@@ -1,1 +1,1 @@
-# Artyomov kt1
+# kt1
